@@ -2,45 +2,33 @@
 
 ### 💻 Java Full Stack Developer | B.Tech CSE 2026
 
-I'm a Computer Science graduate passionate about building web applications and solving programming problems.
+I'm a Computer Science graduate interested in **Java Full Stack Development** and software engineering.
 
-I enjoy working with **Java, SQL, JavaScript and web technologies** and continuously improving my software development skills.
+I enjoy building web applications, working with databases, solving programming problems, and learning new technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages**
+### Programming
 
-* Java
-* JavaScript
-* SQL
-* Python Basics
+`Java` `JavaScript` `SQL` `Python`
 
-**Frontend**
+### Frontend
 
-* HTML
-* CSS
-* JavaScript
+`HTML` `CSS` `JavaScript`
 
-**Backend**
+### Backend
 
-* Java
-* JDBC
-* Servlets
-* JSP
-* Apache Tomcat
+`Java` `JDBC` `Servlets` `JSP` `Apache Tomcat`
 
-**Database**
+### Database
 
-* MySQL
+`MySQL`
 
-**Tools**
+### Tools
 
-* Git
-* GitHub
-* Eclipse
-* VS Code
+`Git` `GitHub` `Eclipse` `VS Code`
 
 ---
 
@@ -48,9 +36,13 @@ I enjoy working with **Java, SQL, JavaScript and web technologies** and continuo
 
 ### 🍔 FoodKart – Food Delivery Web Application
 
-A Java-based full-stack food delivery application with user, restaurant, menu and order management.
+A Java full-stack food delivery application with user, restaurant, menu and order management.
 
 **Technologies:** Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript
+
+🔗 **Repository:** Coming soon
+
+---
 
 ### 🐍 Snake Game
 
@@ -58,11 +50,17 @@ An interactive browser-based Snake Game developed using JavaScript.
 
 **Technologies:** HTML, CSS, JavaScript
 
+🔗 **Repository:** [Snake_Game](https://github.com/kishore052/Snake_Game)
+
+---
+
 ### 💻 Interactive Portfolio Profile Card
 
-A modern animated developer portfolio profile card.
+A modern animated developer portfolio profile card built using HTML and CSS.
 
 **Technologies:** HTML, CSS
+
+🔗 **Repository:** [Interactive-Portfolio-Profile-Card](https://github.com/kishore052/Interactive-Portfolio-Profile-Card)
 
 ---
 
